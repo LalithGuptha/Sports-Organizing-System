@@ -39,5 +39,4 @@ In this project we will be deep diving into the world of SPL business model to c
 - [@LalithGuptha](https://github.com/LalithGuptha)
 - [@RengarajR404](https://github.com/RengarajR404)
 - Siddharth P
-- Addanki  Abhishek
-
+- [@Addanki  Abhishek](https://github.com/AbhishekAA002)
