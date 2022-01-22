@@ -194,7 +194,7 @@ public class MatchSchedule implements sendEmail {
 				message.setFrom(new InternetAddress("prrelationsequel@gmail.com"));
 				message.setRecipients(
 						Message.RecipientType.TO,
-						InternetAddress.parse("rvpspran@gmail.com, bmeghadharsan@gmail.com")
+						InternetAddress.parse("rvpspran@gmail.com, bmeghadharsan@gmail.com, lalithg95@gmail.com, renga01042002@gmail.com")
 				);
 				message.setSubject("Match Schedule");
 				BodyPart bp = new MimeBodyPart();
