@@ -36,7 +36,7 @@ In this project we will be deep diving into the world of SPL business model to c
 
 ## Authors
 
-- [@Lalith Guptha](https://github.com/LalithGuptha)
+- [Lalith Guptha](https://github.com/LalithGuptha)
 - [Rengaraj R](https://github.com/RengarajR404)
-- [@Siddharth P](https://github.com/MonochromePunk)
-- [@Addanki  Abhishek](https://github.com/AbhishekAA002)
+- [Siddharth P](https://github.com/MonochromePunk)
+- [Addanki  Abhishek](https://github.com/AbhishekAA002)
